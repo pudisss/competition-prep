@@ -1,0 +1,9 @@
+@import "./utils/";
+
+
+.wrapper {
+    width: min(calc(100% - 3rem), 77.5rem);
+    margin-inline: auto;
+}
+
+
